@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 .calculator{
-    height: 600px;
+    height: 700px;
     width: 500px;
     border: 2px solid blue;
     border-radius: 20%;
@@ -31,6 +31,7 @@
     font-size: 3.5em;
     font-weight: bolder;
     background-color: orange;
+    cursor: pointer;
 }
 .bodycal{
    height: 80%; 
@@ -54,6 +55,7 @@
     background-color: lightsalmon;
     font-weight: bolder;
     font-size: 3.5em;
+    cursor: pointer;
 }
 .num{
     margin: 0px;
